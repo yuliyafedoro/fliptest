@@ -94,9 +94,9 @@ var option_PDFF = {
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
-    allControls: "",
+    allControls: "startPage,play,endPage",
 
-    hideControls: "thumbnail,play,startPage,altPrev,pageNumber,altNext,endPage,zoomIn,zoomOut,fullScreen,download,sound,share,outline",
+    hideControls: "thumbnail,altPrev,pageNumber,altNext,zoomIn,zoomOut,fullScreen,download,sound,share,outline",
 
 
 
