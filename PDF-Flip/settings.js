@@ -4,7 +4,7 @@ var option_PDFF = {
 
    /* BASIC SETTINGS */  
 
-    openPage: 1,
+    openPage: 2,3
 
     height: '100%',
 
@@ -16,7 +16,7 @@ var option_PDFF = {
 
     autoPlay: true,
 
-    autoPlayStart: false,
+    autoPlayStart: true,
 
     autoPlayDuration: 3000,
 
@@ -90,13 +90,13 @@ var option_PDFF = {
 
 	backgroundImage: "",
 
-    backgroundColor: "#ffffff",
+    backgroundColor: "#404040",
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
-    allControls: "startPage,play,endPage",
+    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage",
 
-    hideControls: "thumbnail,altPrev,pageNumber,altNext,zoomIn,zoomOut,fullScreen,download,sound,share,outline",
+    hideControls: "thumbnail,zoomIn,zoomOut,fullScreen,download,sound,share,outline",
 
 
 
