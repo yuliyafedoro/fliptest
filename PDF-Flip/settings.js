@@ -6,7 +6,7 @@ var option_PDFF = {
 
     openPage: 2,3
 
-    height: '100%',
+    height: '80%',
 
     enableSound: false,
 
@@ -94,9 +94,9 @@ var option_PDFF = {
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
-    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage",
+    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage,sound",
 
-    hideControls: "thumbnail,zoomIn,zoomOut,fullScreen,download,sound,share,outline",
+    hideControls: "thumbnail,zoomIn,zoomOut,fullScreen,download,share,outline",
 
 
 
