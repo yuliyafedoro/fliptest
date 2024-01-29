@@ -6,7 +6,7 @@ var option_PDFF = {
 
     openPage: 2,
 
-    height: '70%',
+    height: '100%',
 
     enableSound: false,
 
@@ -83,13 +83,13 @@ var option_PDFF = {
 
 	scrollWheel: false,
 
-    zoomRatio: 0.7,
+    zoomRatio: 1,
 
 	maxTextureSize: 1600,
 
 	backgroundImage: "",
 
-    backgroundColor: "#d0d0d0",
+    backgroundColor: "#000000",
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
