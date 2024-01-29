@@ -4,7 +4,7 @@ var option_PDFF = {
 
    /* BASIC SETTINGS */  
 
-    openPage: 2,3,
+    openPage: 2,
 
     height: '75%',
 
