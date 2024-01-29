@@ -6,7 +6,7 @@ var option_PDFF = {
 
     openPage: 2,
 
-    height: '75%',
+    height: "75%",
 
     enableSound: false,
 
