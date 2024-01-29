@@ -4,7 +4,7 @@ var option_PDFF = {
 
    /* BASIC SETTINGS */  
 
-    openPage: 2,3
+    openPage: 2,3,
 
     height: '80%',
 
@@ -23,7 +23,6 @@ var option_PDFF = {
     autoEnableOutline: false,
 
     autoEnableThumbnail: false,
-
 
 
 
