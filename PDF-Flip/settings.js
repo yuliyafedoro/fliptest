@@ -95,7 +95,7 @@ var option_PDFF = {
 
     allControls: "startPage,altPrev,pageNumber,altNext,play,endPage,sound",
 
-    hideControls: "thumbnail,fullScreen,download,share,outline",
+    hideControls: "thumbnail,fullScreen,download,share,outline,zoomIn,zoomOut",
 
 
 
