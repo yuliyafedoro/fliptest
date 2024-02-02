@@ -83,7 +83,7 @@ var option_PDFF = {
 
 	scrollWheel: false,
 
-    zoomRatio: 0.9,
+    zoomRatio: 0.5,
 
 	maxTextureSize: 1600,
 
