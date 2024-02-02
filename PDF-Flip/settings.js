@@ -83,7 +83,7 @@ var option_PDFF = {
 
 	scrollWheel: false,
 
-    zoomRatio: 1,
+    zoomRatio: 0.74,
 
 	maxTextureSize: 1600,
 
@@ -93,7 +93,7 @@ var option_PDFF = {
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
-    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage,sound,zoomIn,zoomOut",
+    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage,sound",
 
     hideControls: "thumbnail,fullScreen,download,share,outline",
 
