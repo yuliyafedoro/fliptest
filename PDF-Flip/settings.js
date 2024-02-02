@@ -83,7 +83,7 @@ var option_PDFF = {
 
 	scrollWheel: false,
 
-    zoomRatio: 1,
+    zoomRatio: 0.9,
 
 	maxTextureSize: 1600,
 
@@ -95,7 +95,7 @@ var option_PDFF = {
 
     allControls: "startPage,altPrev,pageNumber,altNext,play,endPage,sound",
 
-    hideControls: "thumbnail,fullScreen,download,share,outline,zoomIn,zoomOut",
+    hideControls: "thumbnail,zoomIn,zoomOut,fullScreen,download,share,outline",
 
 
 
