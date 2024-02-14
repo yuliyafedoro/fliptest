@@ -89,7 +89,7 @@ var option_PDFF = {
 
 	backgroundImage: "",
 
-    backgroundColor: "#0b5af0",
+    backgroundColor: "#0550de",
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
