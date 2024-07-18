@@ -4,9 +4,9 @@ var option_PDFF = {
 
    /* BASIC SETTINGS */  
 
-    openPage: 3,
+    openPage: 2,
 
-    height: '100%',
+    height: '80%',
 
     enableSound: false,
 
@@ -14,9 +14,9 @@ var option_PDFF = {
 
     direction: pdfflip.DIRECTION.LTR,
 
-    autoPlay: false,
+    autoPlay: true,
 
-    autoPlayStart: false,
+    autoPlayStart: true,
 
     autoPlayDuration: 3000,
 
@@ -93,9 +93,9 @@ var option_PDFF = {
 
     controlsPosition: pdfflip.CONTROLSPOSITION.BOTTOM,
 
-    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage",
+    allControls: "startPage,altPrev,pageNumber,altNext,play,endPage,sound",
 
-    hideControls: "thumbnail,fullScreen,download,share,outline,zoomIn,zoomOut,sound",
+    hideControls: "thumbnail,fullScreen,download,share,outline,zoomIn,zoomOut",
 
 
 
