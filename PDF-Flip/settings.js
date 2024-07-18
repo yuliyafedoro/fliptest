@@ -4,7 +4,7 @@ var option_PDFF = {
 
    /* BASIC SETTINGS */  
 
-    openPage: 2,
+    openPage: 3,
 
     height: '80%',
 
@@ -14,7 +14,7 @@ var option_PDFF = {
 
     direction: pdfflip.DIRECTION.LTR,
 
-    autoPlay: true,
+    autoPlay: false,
 
     autoPlayStart: true,
 
